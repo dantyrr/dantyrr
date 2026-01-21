@@ -9,7 +9,7 @@
 
 I lead a research lab that combines wet-lab and dry-lab approaches to investigate aging-specific disease mechanisms. We use advanced single-cell technologies, spectral flow cytometry, and computational biology to understand how age impacts chronic inflammatory diseases.
 
-The strongest risk factor for nearly all chronic diseases—from cardiovascular disease and dementia to most cancers—is a person's age. While we cannot modify how old you are, we hope we can one day modify the biological changes that occur as we get older. Thus, my lab focuses on identifying and understanding the biological changes that happen during aging that contribute to disease.
+The strongest risk factor for nearly all chronic diseases, from cardiovascular disease and dementia to most cancers, is a person's age. While we cannot modify how old you are, we hope we can one day modify the biological changes that occur as we get older. Thus, my lab focuses on identifying and understanding the biological changes that happen during aging that contribute to disease.
 
 ---
 
@@ -33,9 +33,9 @@ The strongest risk factor for nearly all chronic diseases—from cardiovascular 
 [![Email](https://img.shields.io/badge/Email-dtyrrell@uab.edu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dtyrrell@uab.edu)
 
 ### The Team's GitHubs
-• [MBSiam](https://github.com/mhbsiam/) — Graduate Student
+• [Md Hasanul Banna Siam](https://github.com/mhbsiam/) — Graduate Student
 
-• [Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
+• [Md Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
 
 ---
 
