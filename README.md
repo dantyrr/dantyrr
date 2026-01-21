@@ -34,6 +34,7 @@ The strongest risk factor for nearly all chronic diseases—from cardiovascular 
 
 ### The Team's GitHubs
 [MBSiam](https://github.com/mhbsiam/) — Graduate Student
+
 [Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
 
 ---
@@ -64,7 +65,7 @@ Woitowich NC, Hengel SR, Solis C, *et al.*
 *eLife* (2024) | [Read Paper](https://elifesciences.org/articles/88984) | [Analysis Code](https://github.com/dantyrr/K99-R00-analysis)
 > Comprehensive analysis of NIH Pathway to Independence Awards (2006-2022) revealing how institutional prestige and gender impact career trajectories and funding success.
 
-[**View All Publications on Google Scholar:**](https://scholar.google.com/citations?hl=en&user=dig3BckAAAAJ)
+[**View All Publications on Google Scholar**](https://scholar.google.com/citations?hl=en&user=dig3BckAAAAJ)
 
 ---
 
