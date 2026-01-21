@@ -15,32 +15,32 @@ The strongest risk factor for nearly all chronic diseases—from cardiovascular 
 
 ## Research Interests
 
-🧬 **Aging & Neurodegeneration** — Investigating age-dependent neuroinflammatory circuits and microglia-T cell interactions in the brain using single-cell approaches
+**Aging & Neurodegeneration** — Investigating age-dependent neuroinflammatory circuits and microglia-T cell interactions in the brain using single-cell approaches
 
-🫀 **Atherosclerosis** — Understanding vascular inflammation and age-related cardiovascular disease development through advanced imaging and genomics
+**Aging & Atherosclerosis** — Understanding vascular inflammation and age-related cardiovascular disease development through advanced imaging and genomics
 
-🦠 **Autoimmunity** — Exploring immune dysregulation mechanisms in aging-associated autoimmune conditions using murine models
+**Aging & Immunity** — Exploring immune dysregulation mechanisms in aging-associated autoimmune conditions using murine models
 
-🔬 **CD8+ T Cell Biology** — Characterizing cytotoxic T cell contributions to chronic inflammatory diseases with spectral flow cytometry
+**CD8+ T Cell Biology** — Characterizing cytotoxic T cell contributions to chronic inflammatory diseases with high dimensional imaging and flow cytometry
 
 ---
 
-## Connect with Me
+## Connect
 
 [![Lab Website](https://img.shields.io/badge/Lab_Website-sites.uab.edu-blue?style=flat-square&logo=google-chrome)](https://sites.uab.edu/tyrrelllab/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dig3BckAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ORCID_ID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0811-6724)
 [![Email](https://img.shields.io/badge/Email-dtyrrell@uab.edu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dtyrrell@uab.edu)
 
 ### The Team's GitHubs
-- 🧑‍💻 [MBSiam](https://github.com/mhbsiam/) — Graduate Student
-- 🧑‍💻 [Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
+[MBSiam](https://github.com/mhbsiam/) — Graduate Student
+[Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
 
 ---
 
-## Featured Publications & Projects
+## Featured Dry Lab Publications & Projects
 
-### 📄 2025
+### 2025
 
 **Age-Dependent Neuroinflammatory Microglia-T Cell Circuits in the Brain**
 Ali MA, Siam MHB, Vardaman D 3rd, *et al.*
@@ -52,7 +52,7 @@ Siam MHB, Ali MA, Vardaman D 3rd, *et al.*
 *Bioinformatics* 41(6) (2025) | [Read Paper](https://academic.oup.com/bioinformatics/article/41/6/btaf176/8115576) | [Web App](https://github.com/mhbsiam/cafe)
 > User-friendly web application that democratizes high-dimensional spectral flow cytometry analysis, making advanced immunological analysis accessible without extensive computational expertise.
 
-### 📄 2024
+### 2024
 
 **Spectral Flow Cytometry Analysis Pipeline for Immune Cell Characterization**
 Vardaman D 3rd, Ali MA, Siam MHB, *et al.*
@@ -64,7 +64,7 @@ Woitowich NC, Hengel SR, Solis C, *et al.*
 *eLife* (2024) | [Read Paper](https://elifesciences.org/articles/88984) | [Analysis Code](https://github.com/dantyrr/K99-R00-analysis)
 > Comprehensive analysis of NIH Pathway to Independence Awards (2006-2022) revealing how institutional prestige and gender impact career trajectories and funding success.
 
-[**View All Publications on Google Scholar →**](https://scholar.google.com/citations?hl=en&user=dig3BckAAAAJ)
+[**View All Publications on Google Scholar:**](https://scholar.google.com/citations?hl=en&user=dig3BckAAAAJ)
 
 ---
 
@@ -72,24 +72,18 @@ Woitowich NC, Hengel SR, Solis C, *et al.*
 
 ```
 Single-cell RNA-seq  •  Spectral Flow Cytometry  •  Bioinformatics
-Computational Biology  •  High-dimensional Analysis  •  Imaging Analysis
+Computational Biology  •  High-dimensional Imaging Analysis
 Murine Models  •  Python/R  •  Machine Learning
 ```
 
 ---
 
-## GitHub Stats
-
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantyrr&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## Contact
 
-📧 **Email:** dtyrrell@uab.edu
-🏛️ **Location:** Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, AL
-🌐 **Lab Website:** [sites.uab.edu/tyrrelllab](https://sites.uab.edu/tyrrelllab/)
-💻 **Personal Website:** [dantyrr.github.io](https://dantyrr.github.io/)
+**Email:** dtyrrell@uab.edu
+**Location:** University of Alabama at Birmingham, Birmingham, AL
+**Lab Website:** [sites.uab.edu/tyrrelllab](https://sites.uab.edu/tyrrelllab/)
+**Personal Website:** [dantyrr.github.io](https://dantyrr.github.io/)
 
 ---
 
