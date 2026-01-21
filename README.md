@@ -33,9 +33,8 @@ The strongest risk factor for nearly all chronic diseases—from cardiovascular 
 [![Email](https://img.shields.io/badge/Email-dtyrrell@uab.edu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dtyrrell@uab.edu)
 
 ### The Team's GitHubs
-[MBSiam](https://github.com/mhbsiam/) — Graduate Student
-
-[Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
+• [MBSiam](https://github.com/mhbsiam/) — Graduate Student
+• [Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
 
 ---
 
@@ -71,11 +70,11 @@ Woitowich NC, Hengel SR, Solis C, *et al.*
 
 ## Technologies & Methods
 
-```
+
 Single-cell RNA-seq  •  Spectral Flow Cytometry  •  Bioinformatics
 Computational Biology  •  High-dimensional Imaging Analysis
 Murine Models  •  Python/R  •  Machine Learning
-```
+
 
 ---
 
@@ -85,6 +84,7 @@ Murine Models  •  Python/R  •  Machine Learning
 **Location:** University of Alabama at Birmingham, Birmingham, AL
 **Lab Website:** [sites.uab.edu/tyrrelllab](https://sites.uab.edu/tyrrelllab/)
 **Personal Website:** [dantyrr.github.io](https://dantyrr.github.io/)
+
 
 ---
 
