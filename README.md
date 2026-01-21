@@ -34,6 +34,7 @@ The strongest risk factor for nearly all chronic diseases—from cardiovascular 
 
 ### The Team's GitHubs
 • [MBSiam](https://github.com/mhbsiam/) — Graduate Student
+
 • [Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
 
 ---
@@ -81,8 +82,11 @@ Murine Models  •  Python/R  •  Machine Learning
 ## Contact
 
 **Email:** dtyrrell@uab.edu
+
 **Location:** University of Alabama at Birmingham, Birmingham, AL
+
 **Lab Website:** [sites.uab.edu/tyrrelllab](https://sites.uab.edu/tyrrelllab/)
+
 **Personal Website:** [dantyrr.github.io](https://dantyrr.github.io/)
 
 
