@@ -32,6 +32,7 @@ The strongest risk factor for nearly all chronic diseases, from cardiovascular d
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0811--6724-green.svg)](https://orcid.org/0000-0002-0811-6724)
 [![Email](https://img.shields.io/badge/Email-dtyrrell@uab.edu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dtyrrell@uab.edu)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&color=0285FF)](https://bsky.app/profile/danis1337.bsky.social)
+[![TyrrellLab](https://img.shields.io/badge/GitHub-TyrrellLab-181717?style=flat-square&logo=github)](https://github.com/TyrrellLab)
 
 ### The Team's GitHubs
 • [Md Hasanul Banna Siam](https://github.com/mhbsiam/) — Graduate Student
