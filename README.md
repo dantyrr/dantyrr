@@ -35,9 +35,9 @@ The strongest risk factor for nearly all chronic diseases, from cardiovascular d
 [![TyrrellLab](https://img.shields.io/badge/GitHub-TyrrellLab-181717?style=flat-square&logo=github)](https://github.com/TyrrellLab)
 
 ### The Team's GitHubs
-• [Md Hasanul Banna Siam](https://github.com/mhbsiam/) — Graduate Student
+• [Md Hasanul Banna Siam](https://github.com/mhbsiam/) — PhD Candidate
 
-• [Md Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
+• [Md Akkas Ali](https://github.com/mdakkasali/) — PhD Candidate
 
 • [Haswanth Kolanuvada](https://github.com/HaswanthUAB/) — Masters Student
 
