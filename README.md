@@ -28,6 +28,7 @@ The strongest risk factor for nearly all chronic diseases, from cardiovascular d
 ## Connect
 
 [![Lab Website](https://img.shields.io/badge/Lab_Website-sites.uab.edu-blue?style=flat-square&logo=google-chrome)](https://sites.uab.edu/tyrrelllab/)
+[![Lab Website](https://img.shields.io/badge/Lab_Website-tyrrelllab.github.io-blue?style=flat-square&logo=google-chrome)](https://tyrrelllab.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dig3BckAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0811--6724-green.svg)](https://orcid.org/0000-0002-0811-6724)
 [![Email](https://img.shields.io/badge/Email-dtyrrell@uab.edu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dtyrrell@uab.edu)
@@ -90,6 +91,8 @@ Murine Models  •  Python/R  •  Machine Learning
 **Location:** University of Alabama at Birmingham, Birmingham, AL
 
 **Lab Website:** [sites.uab.edu/tyrrelllab](https://sites.uab.edu/tyrrelllab/)
+
+**Lab Website:** [tyrrelllab.github.io](https://tyrrelllab.github.io/)
 
 **Personal Website:** [dantyrr.github.io](https://dantyrr.github.io/)
 
